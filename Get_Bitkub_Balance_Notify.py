@@ -10,8 +10,8 @@ messenger = Sendline(token)
 ### API info ###
 
 API_Host = 'https://api.bitkub.com'
-API_KEY = 'Your API kEY'
-API_SECRET = 'Your API Secret'
+API_KEY = 'Your API Key'
+API_SECRET = b'Your API Secret'
 
 ##############################################################
 
