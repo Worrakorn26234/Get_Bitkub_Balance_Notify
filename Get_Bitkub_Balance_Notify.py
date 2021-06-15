@@ -58,6 +58,5 @@ while True:
         price = data[sym]['available']
         price2 = float(price * last)
 
-         
         print(messenger.sendtext('XRP '+ str(price2)))
         time.sleep(10)
